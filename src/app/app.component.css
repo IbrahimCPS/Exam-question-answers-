@@ -1,3 +1,12 @@
-p {
-  font-family: Lato;
+body {
+  box-sizing: border-box;
+  
+}
+.loader {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(13, 156, 156);
+  border-radius: 10%;
+  position: fixed;
 }
