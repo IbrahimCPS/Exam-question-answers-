@@ -3,6 +3,7 @@ body {
 
 }
 .loader {
+  margin: 10px;
   display: block;
   width: 100%;
   height: 100%;
