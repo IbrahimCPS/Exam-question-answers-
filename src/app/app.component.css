@@ -1,12 +1,14 @@
 body {
   box-sizing: border-box;
-  
+
 }
 .loader {
   display: block;
   width: 100%;
   height: 100%;
-  background-color: rgb(13, 156, 156);
+  /*background-color: rgb(13, 156, 156);*/
+  background: url(https://img.freepik.com/free-photo/education-day-arrangement-table-with-copy-space_23-2148721266.jpg?w=826&t=st=1654551916~exp=1654552516~hmac=189941737c6a210ea545181bcfa5397f33d8a881218df1ae58df2939d8147ae6) no-repeat;
+  background-size: 100% 100%;
   border-radius: 10%;
   position: fixed;
 }
